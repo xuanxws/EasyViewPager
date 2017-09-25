@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="LoopIndicator">
+        <attr name="ovalradius" format="dimension"/>
+        <attr name="ovalnums" format="integer"/>
+        <attr name="ovalwidth" format="dimension"/>
+        <attr name="ovaldivther" format="dimension"/>
+    </declare-styleable>
+
+
+</resources>
